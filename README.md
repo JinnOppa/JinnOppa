@@ -17,7 +17,7 @@ My areas of interest include exploratory data analysis, machine learning, statis
 ### 📂 Personal Data Analysis Projects:
 
 - [**Netflix Customer Dashboard**](https://github.com/JinnOppa/Netflix-Dashboard): Analyze raw Netflix data using a Power BI dashboard, presenting visualizations and insights into content distribution, user demographics, ratings, genres, directors, and more, without any prior data cleaning or preprocessing.
-- [**Airbnb Analysis**](https://github.com/JinnOppa/EDA-Airbnb): Analyzing Airbnb booking data using Python Jupyter Notebook and Power BI, performing exploratory data analysis, data cleaning, and correlation analysis, with the goal of gaining insights from the dataset obtained from Kaggle and presenting them through Power BI dashboard.
+- [**Airbnb Analysis**](https://github.com/JinnOppa/Airbnb-Analysis): Analyzing Airbnb booking data using Python Jupyter Notebook and Power BI, performing exploratory data analysis, data cleaning, and correlation analysis, with the goal of gaining insights from the dataset obtained from Kaggle and presenting them through Power BI dashboard.
 
 ### 📫 Connect with Me:
 
