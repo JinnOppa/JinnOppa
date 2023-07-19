@@ -4,11 +4,17 @@ I'm an international university student passionate about data analytics, data sc
 
 ### 🔭 Skills and Tools:
 
-- Programming Languages: C++, C, Python, R
-- Database Management: MS SQL Server
-- Data Visualization: Power BI, R Studio, Visual Studio Code
-- Data Analytics: SAS VIYA, SAS Enterprise Miner
-- Integrated Development Environments (IDEs): Visual Studio, Visual Studio Code
+- 📚 Programming Languages ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+- 🗄️ Database Management: ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLLite](	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+- 📊  Data Visualization ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+- 🛠️ Data Analytics Tools ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-003366?style=for-the-badge&logo=sas&logoColor=white) ![SAS Enterprise Miner](https://img.shields.io/badge/SAS%20Enterprise%20Miner-003366?style=for-the-badge&logo=sas&logoColor=white)
+
+- 📚  Data Analytics Library ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+- 💻 Integrated Development Environments (IDEs) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 🌱 Interests:
 
@@ -25,8 +31,14 @@ If you have any questions, ideas, or opportunities you'd like to discuss, feel f
 
 You can connect with me via:
 
-- Email: [eugene.winata@gmail.com](eugene.winata@gmail.com)
-- LinkedIn: [eugene-winata](https://www.linkedin.com/in/eugene-winata/)
+<a href="eugene.winata@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/eugene-winata/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+![](https://github-readme-stats.vercel.app/api?username=JinnOppa&theme=dark&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnOppa&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 I'm excited to share my data projects, contribute to open-source initiatives, and collaborate with like-minded individuals in the data analytics community. Let's leverage the power of data to make informed decisions and drive impactful outcomes!
 
