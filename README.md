@@ -29,8 +29,8 @@ I'm an international university student passionate about data analytics, data sc
 
 My areas of interest include exploratory data analysis, machine learning, statistical modeling, and data-driven business strategies. I'm constantly learning and exploring new techniques, algorithms, and tools to enhance my skills and broaden my knowledge in the field of data analytics.
 
-### 📂 Personal Data Analysis Projects:
-
+### 📂 Personal Data Analysis & Data Science Projects:
+- [**MedInsight**](https://github.com/JinnOppa/MedInsight): Leveraging machine learning algorithms to predict disease risks and hospitalization outcomes, by developing models to forecast occurrences of diseases, survival rates, surgery risks, hospitalization costs, and admission durations, in order to assist healthcare providers in improving patient care, optimizing resource allocation, and addressing the healthcare challenges in Indonesia.
 - [**Entertainment Software Rating Board 2016 Analysis**](https://github.com/JinnOppa/Entertainment-Software-Rating-Board-2016-Analysis): Analyze 'ICE' Online Game Store historical data to understand user preferences, predict market trends, identify promising games, unearth sales trends and determinants of success in the gaming industry.
 - [**Airbnb Analysis**](https://github.com/JinnOppa/Airbnb-Analysis): Analyzing Airbnb booking data using Python Jupyter Notebook and Power BI, performing exploratory data analysis, data cleaning, and correlation analysis, to gain insights from the obtained dataset  from Kaggle and presenting them through Power BI dashboard.
 - [**Hotel Booking Analysis**](https://github.com/JinnOppa/Hotel-Booking-Analysis): Perform exploratory data analysis (EDA) on a hotel booking dataset to uncover valuable insights into bookings, cancellations, customer behavior, pricing, and room types through Python Jupyter Notebook.
